@@ -1,0 +1,5 @@
+# Exception list:
+# just write down the name of a exception file name,
+# every file must be written in the new line
+automover.py
+file_excepsionList.txt
